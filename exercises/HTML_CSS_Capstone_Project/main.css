@@ -1,0 +1,37 @@
+body {
+    color: white;
+    font-size: 16px;
+    font-family: 'Calibri';
+    background-color: rgb(16, 1, 43);
+    border-style: solid;
+    border-color: rgb(6, 233, 233);
+    border-width: 3em;
+    border-top-width: 0;
+    text-align: center;
+    padding: 10%;
+    padding-top: 0%;
+}
+
+h1 {
+    font-size: 2.2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+label {
+    font-size: 1.5em;
+}
+
+input {
+    width: 50%;
+    height: 1.5em;
+}
+
+#sub {
+    font-size: 1.5em;
+    background-color: rgb(255, 149, 0);
+    border-radius: 0.5em;
+    border-color: rgb(255, 149, 0);r
+}

@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-size: 16px;
+    }
+h1 {
+    font-family: 'Almendra Display', cursive;
+    font-size: 2em;
+}
+
+table {
+    width: 90%;
+    height: 30em;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+td {
+    border-width: 0.5em;
+    border-color: white;
+}
+#color1 {
+    background: #ecba82;
+    border-style: solid;
+}
+#color2 {
+    background: #81C14B;
+    border-style: solid;
+}
+#color3 {
+    background: #2E933C;
+    border-style: solid;
+}
+#color4 {
+    background: #297045;
+    border-style: solid; 
+}
+#color5 {
+    background: #204E4A;
+    border-style: solid;
+}
