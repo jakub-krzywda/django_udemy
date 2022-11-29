@@ -1,0 +1,17 @@
+nav {
+    margin-bottom: 2em;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main {
+    background-color: #EEEEEE;
+    border-radius: 10px;
+    padding: 2em;
+}
+
+h1 {
+    font-size: 3em;
+}
