@@ -1,0 +1,18 @@
+#title_container {
+    text-align: center;
+    padding: 2em;
+}
+
+#title {
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(142, 130, 130);
+    background-color: rgba(142, 130, 130, 0.874);
+    padding: 2em;
+}
+
+.tic { 
+    border-style: solid;
+    padding: 2em;
+
+}
