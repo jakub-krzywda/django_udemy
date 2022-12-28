@@ -17,7 +17,7 @@ function check_win(player_tics) {
         player_tics[1][1] +
         player_tics[0][2];
     if (diag_sum1 == 3 || diag_sum2 == 3) {
-        winner = which_player + 1;
+        var winner = which_player + 1;
         console.log('We have a winner player: ' + winner);
         var game_status = document.querySelector('#gamestatus')
         game_status.textContent = 'We have a winner player: ' + winner + '\n Refresh to Restart';
@@ -30,7 +30,7 @@ function check_win(player_tics) {
             row_sum += player_tics[i][j];
             col_sum += player_tics[j][i];
             if (row_sum === 3 || col_sum === 3) {
-                winner = which_player + 1;
+                var winner = which_player + 1;
                 console.log('We have a winner player: ' + winner);
                 var game_status = document.querySelector('#gamestatus')
                 game_status.textContent = 'We have a winner player: ' + winner + '\n Refresh to Restart';

@@ -1,0 +1,17 @@
+#title_container {
+    text-align: center;
+    border-style: solid;
+}
+
+td {
+    width: 4em;
+    height: 4em;
+    background-color: gray;
+    border-radius: 50%;
+}
+
+#game_status {
+    text-align: center;
+    font-size: 2em;
+    padding: 1em;
+}
